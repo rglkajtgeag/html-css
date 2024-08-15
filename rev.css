@@ -1,0 +1,77 @@
+body {
+    background-color: aqua;
+  }
+  .image1 {
+    background-color: blueviolet;
+  }
+  .image2 {
+    background-color: yellow;
+  }
+  .image3 {
+    background-color: red;
+  }
+  .image4 {
+    background-color: green;
+  }
+  .list {
+    background-color: blue;
+    text-align: center;
+  }
+  .orerded {
+    background-color: yellow;
+  }
+  #li1 {
+    background-color: blueviolet;
+    text-align: center;
+  }
+  #li2 {
+    background-color: green;
+    text-align: center;
+  }
+  #one {
+    color: white;
+    background-color: gold;
+  }
+  #two {
+    color: white;
+    background-color: fuchsia;
+  }
+#a {
+    background-color: purple;
+  }
+  #b {
+    background-color: lightseagreen;
+  }
+  #c {
+    background-color: darkcyan;
+  }
+  #A {
+    background-color: darkcyan;
+  }
+  #B {
+    background-color: lightseagreen;
+  }
+  #C {
+    background-color: yellow;
+  }
+  #D {
+    background-color: lightseagreen;
+  }
+  #E {
+    background-color: green;
+  }
+  #F {
+    background-color: lightseagreen;
+  }
+  .table {
+    background-color: coral;
+  }
+  #names {
+    background-color: cornflowerblue;
+  }
+  #name2 {
+    background-color: darkkhaki;
+  }
+  .ordered {
+    background-color: darksalmon;
+  }
